@@ -36,7 +36,7 @@ print()
 
 sid=input("Enter Student's SID:")
 
-name=input("Enter Students's name:")
+name=input("Enter Students's Name:")
 
 gender=input("Enter Student's Gender:")
 
