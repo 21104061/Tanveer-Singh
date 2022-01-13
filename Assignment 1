@@ -1,16 +1,16 @@
 # Question1
 
-P = int(input("Enter First Student's Number : "))
+A = int(input("Enter First Student's Number : "))
 
-Q = int(input("Enter Second Student's Number : "))
+B = int(input("Enter Second Student's Number : "))
 
-R = int(input("Enter Third Student's Number : "))
+C = int(input("Enter Third Student's Number : "))
 
-S = P + Q + R
+S = A + B + C
 
-average = S / 3
+AverageMarks = S / 3
 
-print("Average of three Students numbers is : ", average)
+print("Average of three Students numbers is : ", AverageMarks)
 
 print()
 
