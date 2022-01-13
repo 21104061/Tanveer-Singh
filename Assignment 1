@@ -34,11 +34,11 @@ print()
 
 # Question3
 
-sid=input("Enter Your SID:")
+sid=input("Enter Student's SID:")
 
-name=input("Enter Your name:")
+name=input("Enter Students's name:")
 
-gender=input("Enter Your Gender:")
+gender=input("Enter Student's Gender:")
 
 course=input("Enter The Course Name:")
 
