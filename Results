@@ -1,0 +1,37 @@
+Enter First Student's Number : 10
+Enter Second Student's Number : 15
+Enter Third Student's Number : 18
+Average of three Students numbers is :  14.333333333333334
+
+> 
+
+Enter your Gross Income : 92000
+Enter Your Dependent : 4
+Your income tax :  14000.0
+
+> 
+
+Enter Student's SID:21104061
+Enter Student's Name:Tanveer Singh
+Enter Student's Gender:M
+Enter the Course Name:EE UG
+Enter the CGPA:7.5
+['21104061', 'Tanveer Singh', 'M','EE UG', 7.5]
+
+>
+
+marks of First student: 19
+marks of Second student: 14
+marks of Third student: 15
+marks of Forth student: 16
+marks of Fifth student: 18
+[19, 14, 15, 16, 15]
+
+> 
+
+['red', 'Green', 'White', 'Pink', 'Yellow']
+
+> 
+
+['red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
+> 
