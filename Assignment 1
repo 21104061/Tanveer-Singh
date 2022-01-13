@@ -1,0 +1,87 @@
+# Question1
+
+P = int(input("Enter First Student's Number : "))
+
+Q = int(input("Enter Second Student's Number : "))
+
+R = int(input("Enter Third Student's Number : "))
+
+S = P + Q + R
+
+average = S / 3
+
+print("Average of three Students numbers is : ", average)
+
+print()
+
+# Question2
+
+G_I = int(input("Enter your Gross Income : "))
+
+D = int(input("Enter Your Dependent : "))
+
+S_D = 10000
+
+D_D_A = D * 3000
+
+Taxable_Income = G_I - S_D - D_D_A
+
+Tax = float((20 / 100) * (Taxable_Income))  # Tax is 20% of Taxable_Income
+
+print("Your income tax : ", Tax)
+
+print()
+
+# Question3
+
+sid=input("Enter Your SID:")
+
+name=input("Enter Your name:")
+
+gender=input("Enter Your Gender:")
+
+course=input("Enter The Course Name:")
+
+cgpa=float(input("Enter The CGPA"))
+
+student=[sid,name,gender,course,cgpa]
+
+print(student)
+
+print()
+
+# Question4
+
+X = int(input('marks of First student: '))
+
+Y = int(input('marks of Second student: '))
+
+Z = int(input('marks of Third student: '))
+
+P = int(input('marks of Forth student: '))
+
+Q = int(input('marks of Fifth student: '))
+
+list = [X,Y,Z,P,Z]
+
+print(list)
+
+print()
+
+# question 5a
+
+color=['red','Green', "White",'Black', 'Pink', 'Yellow']
+
+color.pop(3)
+
+print(color)
+
+print()
+
+# question 5b
+
+color=['red','Green', "White",'Black', 'Pink', 'Yellow']
+
+color[color.index("Black")]="Purple"; color[color.index("Pink")]="Purple"
+
+print(color)
